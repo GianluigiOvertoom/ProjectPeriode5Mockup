@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ookeenmockup : MonoBehaviour {
+public class another : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
